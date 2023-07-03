@@ -2,6 +2,7 @@
 
 This page is for our paper in CVPR 2023 "Transductive Few-shot Learning with Prototype-based Label Propagation by Iterative Graph Refinement". I will update the code after NeurIPS DDL (LOL).
 
+![](Fig2_fix.png)
 
 ## usage
 Please download features from [here](https://drive.google.com/file/d/1DHaCd0owzHHPEn_0Z3vfg15Q3slBJnLy/view?usp=sharing) and unzip it. This code can reproduce the performance in the paper, but something need to tune in different datasets like L2 normalization of prototypes.
